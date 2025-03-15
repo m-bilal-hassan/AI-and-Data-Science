@@ -1,0 +1,14 @@
+Fisrt Create 
+Folder and then
+open with vscode
+in this folder 
+and creat environment.
+
+In Command prompt
+pthon -m venv path\venv
+and Run Somethings
+
+In Power-shell Window
+path -m venv file name
+and Run somethings
+
