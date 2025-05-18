@@ -1,0 +1,12 @@
+Django STEP BY STEP WORK.
+1-Make folder open vs-code and open terminal pip install virtualenv and virtualenv env name and go for activate 
+control pnael ctrl+shipt+p my-env\Scripts\activate ok and install django pip install django.
+2-check install properly using command python -m
+django --version
+3-Make a folder name anyone django-admin startproject
+project1
+4-going to folder cd project1
+5-python manage.py runserver
+6-python manage.py migrate
+7-Creating user python manage.py createsuperuser
+8-make a user name and password and login suucessfully.
