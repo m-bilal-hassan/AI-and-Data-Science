@@ -1,0 +1,8 @@
+ALL EXTENSHION IN VS CODE MUST DOWNLOAD
+download----live server
+download----draw.io
+download----jupyter notebook
+download----python
+download----.run
+download----docker
+download----copilet
